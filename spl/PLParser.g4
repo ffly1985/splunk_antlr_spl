@@ -971,7 +971,7 @@ dataset_type
     : 'datamodelinputlookup' | 'savedsearch'
     ;
 dataset_name
-    : ID
+    : field
     ;
 
 
